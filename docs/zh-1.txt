@@ -1,0 +1,969 @@
+   #alternate 编辑本页 Wikipedia (zh) alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate
+   Wikipedia的Atom feed
+
+   跳转到内容
+
+   [ ] 主菜单
+   主菜单
+   (BUTTON) 移至侧栏 (BUTTON) 隐藏
+   导航
+     * 首页
+     * 分类索引
+     * 特色内容
+     * 新闻动态
+     * 最近更改
+     * 随机条目
+
+   帮助
+     * 帮助
+     * 维基社群
+     * 方针与指引
+     * 互助客栈
+     * 知识问答
+     * 字词转换
+     * IRC即时聊天
+     * 联络我们
+     * 关于维基百科
+
+   维基百科 自由的百科全书
+   搜索
+   ____________________
+   (BUTTON) 搜索
+
+   [ ] 外观
+
+     * 资助维基百科
+     * 创建账号
+     * 登录
+
+   [ ] 个人工具
+     * 资助维基百科
+     * 创建账号
+     * 登录
+
+   未登录编辑者的页面 了解详情
+     * 贡献
+     * 讨论
+
+目录
+
+   (BUTTON) 移至侧栏 (BUTTON) 隐藏
+     * 序言
+     * 1 词源
+     * 2 当代应用机器人
+       (BUTTON) 开关当代应用机器人子章节
+          + 2.1 工业机器人
+               o 2.1.1 焊接机器人
+               o 2.1.2 塗裝机器人
+          + 2.2 战斗机器人
+          + 2.3 科研机器人
+          + 2.4 人类体机器人(半機器人)
+          + 2.5 宠物、玩偶类机器人
+     * 3 动漫、游戏等流行文化中的机器人
+     * 4 人型和社交机器人
+     * 5 機器人和社會
+       (BUTTON) 开关機器人和社會子章节
+          + 5.1 自主及道德問題
+          + 5.2 戰爭機器人
+          + 5.3 和失業的關係
+     * 6 世界机器人博览会
+     * 7 艾西莫夫机器人三定律
+     * 8 参看
+     * 9 註釋
+     * 10 參考文獻
+     * 11 外部链接
+
+   [ ] 开关目录
+
+机器人
+
+   [ ] 134种语言
+     * Afrikaans
+     * Alemannisch
+     * አማርኛ
+     * Aragonés
+     * Ænglisc
+     * Obolo
+     * العربية
+     * অসমীয়া
+     * Asturianu
+     * Azərbaycanca
+     * تۆرکجه
+     * Башҡортса
+     * Boarisch
+     * Žemaitėška
+     * Bikol Central
+     * Беларуская
+     * Беларуская (тарашкевіца)
+     * Български
+     * বাংলা
+     * བོད་ཡིག
+     * Brezhoneg
+     * Bosanski
+     * Català
+     * Нохчийн
+     * ᏣᎳᎩ
+     * کوردی
+     * Čeština
+     * Чӑвашла
+     * Cymraeg
+     * Dansk
+     * Deutsch
+     * Zazaki
+     * Ελληνικά
+     * English
+     * Esperanto
+     * Español
+     * Eesti
+     * Euskara
+     * Estremeñu
+     * فارسی
+     * Suomi
+     * Võro
+     * Français
+     * Frysk
+     * 贛語
+     * Kriyòl gwiyannen
+     * Galego
+     * Avañe'ẽ
+     * Hausa
+     * עברית
+     * हिन्दी
+     * Fiji Hindi
+     * Hrvatski
+     * Magyar
+     * Հայերեն
+     * Interlingua
+     * Bahasa Indonesia
+     * Ilokano
+     * Ido
+     * Íslenska
+     * Italiano
+     * 日本語
+     * Patois
+     * Jawa
+     * ქართული
+     * Gĩkũyũ
+     * Қазақша
+     * ಕನ್ನಡ
+     * 한국어
+     * Kurdî
+     * Кыргызча
+     * Latina
+     * Lombard
+     * ລາວ
+     * Lietuvių
+     * Latviešu
+     * Minangkabau
+     * Македонски
+     * മലയാളം
+     * मराठी
+     * Bahasa Melayu
+     * မြန်မာဘာသာ
+     * Plattdüütsch
+     * नेपाली
+     * Nederlands
+     * Norsk nynorsk
+     * Norsk bokmål
+     * Nouormand
+     * Occitan
+     * ਪੰਜਾਬੀ
+     * Picard
+     * Polski
+     * پنجابی
+     * پښتو
+     * Português
+     * Runa Simi
+     * Romani čhib
+     * Română
+     * Русский
+     * ᱥᱟᱱᱛᱟᱲᱤ
+     * Sicilianu
+     * Scots
+     * سنڌي
+     * Srpskohrvatski / српскохрватски
+     * Simple English
+     * Slovenčina
+     * سرائیکی
+     * Slovenščina
+     * Soomaaliga
+     * Shqip
+     * Српски / srpski
+     * Sunda
+     * Svenska
+     * Kiswahili
+     * தமிழ்
+     * తెలుగు
+     * Тоҷикӣ
+     * ไทย
+     * Türkçe
+     * Татарча / tatarça
+     * ئۇيغۇرچە / Uyghurche
+     * Українська
+     * اردو
+     * Oʻzbekcha / ўзбекча
+     * Tiếng Việt
+     * Winaray
+     * 吴语
+     * მარგალური
+     * ייִדיש
+     * Vahcuengh
+     * 文言
+     * 閩南語 / Bân-lâm-gú
+     * 粵語
+     * IsiZulu
+
+   编辑链接
+
+     * 条目
+     * 讨论
+
+   [ ] 不转换
+     * 不转换
+     * 简体
+     * 繁體
+     * 大陆简体
+     * 香港繁體
+     * 澳門繁體
+     * 大马简体
+     * 新加坡简体
+     * 臺灣正體
+
+     * 阅读
+     * 编辑
+     * 查看历史
+
+   [ ] 工具
+   工具
+   (BUTTON) 移至侧栏 (BUTTON) 隐藏
+   操作
+     * 阅读
+     * 编辑
+     * 查看历史
+
+   常规
+     * 链入页面
+     * 相关更改
+     * 上传文件
+     * 特殊页面
+     * 固定链接
+     * 页面信息
+     * 引用此页
+     * 获取短链接
+     * 下载二维码
+
+   打印/导出
+     * 下载为PDF
+     * 打印页面
+
+   在其他项目中
+     * 维基共享资源
+     * 维基数据项目
+
+   外观
+   (BUTTON) 移至侧栏 (BUTTON) 隐藏
+   本页使用了标题或全文手工转换
+   维基百科，自由的百科全书
+   關於維基百科中的機器人，請見「維基百科:机器人」。
+   关于与「机器人」標題相近或相同的条目页，請見「机器人 (消歧義)」。
+   [45px-Tango-nosources.svg.png]
+   此條目需要补充更多来源。 (2018年1月14日)
+   请协助補充多方面可靠来源以改善这篇条目，无法查证的内容可能會因為异议提出而被移除。
+   致使用者：请搜索一下条目的标题（来源搜索："机器人" —
+   网页、新闻、书籍、学术、图像），以检查网络上是否存在该主题的更多可靠来源（判定指引）。
+   [220px-Innorobo_2015_-_NAO_%28cropped%29.JPG]
+   娛樂用机器人[240px-%E9%85%8D%E8%86%B3_%282911897752%29.jpg]
+   本田的概念機器人ASIMO，一般只用在展示場合，同類型的人型機器還沒有很大的銷售量，甚至沒有能力量產。[240px-Vorwerk_Kobol
+   d_VR100.JPG]
+   目前能購買到的，通常以這種簡單的清掃機器人為主，儘管不是很普及且昂貴，但近年視覺辨識方面卻已經有了不少進展，使得產品逐漸變得更實用。
+
+   机器人（英語：Robot，香港稱為機械人）包括一切模拟人类行为或思想與模拟其他生物的机械（如机器狗、机器猫等）。狭义上对机器人的定义还有很多分
+   类法及争议，有些电脑程序甚至也被称为机器人。在当代工业中，機器人指能自動執行任务的人造機器裝置，用以取代或协助人类工作，一般會是機電裝置，由電
+   腦程式或是電子電路控制。
+
+   機器人的範圍很廣，可以是自主或是半自主的，可以從本田技研工業的ASIMO或是TOSY（英语：TOSY）的TOPIO（英语：TOPIO）等擬人機
+   器人到工业机器人，也包括多台一起動作的群機器人（英语：Swarm
+   robotics），其至是奈米機器人。藉由模仿逼真的外觀及自動化的動作，理想中的高仿真機器人是高级整合控制论、机械电子、计算机与人工智能、材料
+   学和仿生学的产物，目前科学界正在向此方向研究开发。有关机器人的话题，常见于科幻作品中。
+
+   機器人學是有關機器人設計、組裝、運作及應用的技術研究^[1]，以及控制機器人的電腦系統、感測器回授以及信息處理等。機器人可以代替人類在一些危險
+   的環境或是製造程序中工作，或是在外貌、行為或認知上取代人類。許多機器的概念都來自自然界，因此有仿生機器人學的出現。
+
+   在工業時代機械技術提昇後，像自動化設備、遙控甚至無線遙控也日益成熟，電子學的進展成為機器人發展的動力。第一個電子式自動機是於1948年在英國的
+   布里斯托尔由William Grey Walter發明，第一個數位化，由電腦控制的自動機是在1954年由George
+   Devol發明，命名為Unimate，後續在1961年賣給奇異電氣，用在紐澤西州的工廠中，用來將壓鑄設備中的熱金屬上移^[2]。
+
+   機器人可以作一些重複性高或是危險的工作，很多時候人們認為機器人能減少意外。但在發展中國家，由於懂得研發及操作人員不多，剛開始使用機器人時反而會
+   增加意外發生的風險。^[3]
+
+   此外，它也可以代人類不想做的工作，做一些因為尺寸限制，人類無法作的工作，甚至是像外太空或是深海中，不適人類生存的環境^[4]。
+   社會上對越來越多的機器人及其角色有些疑慮，機器人因為在越來越多方面可以取代人類，因此被認為是增加失業人口的主因之一^[5]。戰爭中使用的機器人
+   也有道德上的疑慮。機器人自主的可能性及其影響是科幻小說的主題之一。
+
+词源
+
+   [编辑]
+
+   在多種語言中，「机器人」（自動控制機器）源自捷克語的Robot一词，而捷克語的Robot一词最早出现在西元1920年捷克科幻作家恰配克的《罗索
+   姆的万能机器人》中^[6]，原文作“Robota”，在捷克文當中指奴隸制，或者艱辛的勞役^[7]，恰佩克稱是其兄長，身為立體派畫家與作家的约瑟
+   夫^[8]提議使用斯拉夫該斯拉夫詞根^[9]，后来成为西文中通行的“Robot”。但是，作品中登場的並非金屬製的機械，而是將原生質以化學合成製
+   作，具有類似人類外形的人造人，即現在SF作品中的人形機器人，其概念來自泥人傳說^[10]。
+
+   1967年日本科學家森政弘與合田周平提出：「機器人是一種具有移動性、個體性、智能性、通用性、半機械半人性、自動性、奴隸性等7個特徵的柔性機器。
+   ^[11]」
+
+   中文將robot譯為「機器人」，但實際上robot並不一定為人形，無論形狀，只要滿足定義，皆可被稱為「機器人」，而若要專門指代人形的機器人，則
+   被稱為「android」，即人形機器人，又稱安卓。
+                                人工智能系列内容
+   [160px-Dall-e_3_%28jan_%2724%29_artificial_intelligence_icon.png]
+   主要目标
+     * 知识表示
+     * 自动规划（英语：Automated planning and scheduling）
+     * 机器学习
+     * 語言處理
+     * 电脑视觉
+     * 机器人学
+     * 強人工智慧
+     * 弱人工智慧
+     * 人工智能对齐
+
+   实现方式
+     * 符号人工智能
+     * 深度学习
+     * 貝氏網路
+     * 进化算法
+     * 混合智能系統
+     * 生成式人工智慧
+
+   人工智能哲學
+     * 伦理（英语：Ethics of artificial intelligence）
+     * 人工智能安全（英语：AI safety）
+          + 幻觉
+          + 存在风险（英语：Existential risk from artificial general intelligence）
+     * 图灵测试
+     * 中文房间
+     * 可解釋人工智慧
+     * 友好的人工智能（英语：Friendly artificial intelligence）
+     * 人工智能监管（英语：Regulation of artificial intelligence）
+
+   历史
+     * 时间轴（英语：Timeline of artificial intelligence）
+     * 发展（英语：Progress in artificial intelligence）
+     * 人工智慧低谷
+     * 人工智能热潮
+     * 人工智能法案
+
+   技术
+     * 应用（英语：Applications of artificial intelligence）
+     * 项目（英语：List of artificial intelligence projects）
+     * 编程语言（英语：List of programming languages for artificial intelligence）
+
+   术语
+     * 术语（英语：Glossary of artificial intelligence）
+
+     * 查
+     * 论
+     * 编
+
+当代应用机器人
+
+   [编辑]
+   [220px-Hannover_-_CeBit_2015_-_DT_Industrie_40_-_Roboter_008.jpg]
+   機械人展[220px-TFD6-TC2.jpg]
+   2008年底東京消防廳引進了市面第一台雙臂式作業機[220px-Food_delivery_bot_at_Yangfang_Shengli_O
+   riginal_Restaurant_%2820200111163318%29.jpg] 送餐机器人
+
+   現今，對人类來說，太髒太累、太危險、太精细、太粗重或太反覆無聊的工作，常常由机器人代劳。从事制造业的工厂裡的生產线就应用了很多工業機器人，其他
+   应用领域还包括：射出成型業、建筑业、石油钻探、矿石开采、太空探索、水下探索、毒害物质清理、搜救、医学、军事领域等。
+
+工业机器人
+
+   [编辑]
+
+   指由操作机（机械本体）、控制器、伺服驱动系统和传感装置构成的一种仿人操作、自动控制、可重复编程、能在三维空间完成各种作业的光机电一体化生产设备
+   ，特别适合于多品种、变批量的彈性製造系統。
+
+   一個工业機器人可以仅包括一個感覺與動作之間的連結，而且這個連結不是由人手动操控的。機器人的動作也許是電動機或是驱动器（也稱效應器）移動一隻手臂
+   ，張開或關閉一個夾子的動作。此種直接而詳盡的控制跟回饋也許是由在外部或是嵌入式的電腦或是微控制器上運行的程式提供。根據這個定義，所有的自動裝置
+   都算機器人。
+
+   工业機器人可直接接受人類指令，也可以執行預先編排的程序，也可以根據以人工智能技術制定的原則綱領行動。
+
+   工业机器人發展现状方面，
+   2007年全球共新安装工业机器人114,365台，较2006年新安装的111,052台，上升了3%。截至2007年底，全球工业机器人保有量已达
+   到了995,000台。2007年，亚洲及美洲工业机器人的装配量明显上升，汽车工业以及电子电器行业的发展是上述地区工业机器人装配量强劲增长的主要
+   因素。此外，化工领域用工业机器人的需求量也迅速上升。
+
+焊接机器人
+
+   [编辑]
+
+   焊接机器人是工业机器人的最常见类型，常用于汽车制造机械流水线的规模化制造中，汽车车身和其他采用焊接工艺的部件的焊接。
+
+塗裝机器人
+
+   [编辑]
+
+   涂裝机器人亦是工业机器人的最常见类型，常用于汽车车身涂上烤漆。
+
+战斗机器人
+
+   [编辑]
+
+   战斗机器人研发方面走在前列的国家包括美国与以色列，如果不将全球各种正在服役的无人飞机包含在内的话，比较典型的案例有DRDO（Defence
+   Research and Development
+   Organisation）公司Daksh，iRobot公司的PackBot，福斯特-米勒公司的“魔爪”，以色列USV（Unmanned
+   Security Vehicle）公司的Guardium，韩国三星公司的SGR-A1等。
+   目前战斗机器人已经被应用于阿富汗，巴以冲突等局部战争中，比较常见的任务包括侦察，排雷等，这种机器人往往非常灵活，可以穿越复杂地形，如美国波士顿
+   公司的BigDog和阿特拉斯，部分型号的机器人装备了机枪等攻击性武器。
+
+科研机器人
+
+   [编辑]
+
+   通常用于探索人类难以安全接近或根本无法到达的地方。有水下機器人、地外探测机器人（勇气号、机遇号）、洞穴/密室探索机器人、火山研究机器人、太空探
+   索機器人、旋翼无人机^[12]等等类型。
+
+人类体机器人(半機器人)
+
+   [编辑]
+   参见：半機器人
+
+   有些人类会通过手术、将自己的意识输入进电脑等方式改造成为机器人，用于维护治安、军事战斗等用途
+
+宠物、玩偶类机器人
+
+   [编辑]
+
+   机器人也可以作為娛樂玩具用途，甚至成为人类生活的宠物和伴侣。台灣極趣 （页面存档备份，存于互联网档案馆）科技股份有限公司推出的“BeRobot
+   （页面存档备份，存于互联网档案馆）人型機器人”^[13]
+   以及日本索尼公司推出的“Aibo”机器宠物就是實際案例。有些日本的地區已經使用了接待用的兒童體型機器人。
+
+动漫、游戏等流行文化中的机器人
+
+   [编辑]
+
+   主条目：機器人動畫
+
+   主条目：機器人遊戲
+
+   主条目：機器人電影
+
+   在青少年流行文化中，机器人题材自几十年前就开始在世界范围内盛行。《铁臂阿童木》、《哆啦A夢》、《变形金刚》、《机动战士高達》等機器人動畫将此题
+   材推向高峰。
+
+   这些作品通常将机器人描画为具有人类躯干特征（甚至感情）的金属人，并以其强劲的能力作战。
+
+人型和社交机器人
+
+   [编辑]
+
+   [220px-Actroid-DER_01.jpg] 2005年日本世界博览会爱知县展出的女性人型机器人
+
+   參見：人型機器人
+
+   有些机器人被开发出来纯粹是以模仿真人作为目的，这些模仿既可以是外观与动作行为上，又可以是思想感情上的。理论上讲，要做出外观、行为、思想都非常接
+   近真人的机器人，在目前还有不可跨越的技术难度，但在未来并不是不可能的事。而如何利用及控制那类高仿真机器人，它们与人类关系又将如何，早已成为科幻
+   界一个长期话题。
+
+   2001年，美國麻省理工學院研發了世界上第一個有模拟感情的機器人^[14]。
+
+機器人和社會
+
+   [编辑]
+
+   [220px-TOPIO_3.jpg] 擬人機器人TOPIO（英语：TOPIO）在2009年的世界機器人博覽會中打乒乓球^[15]
+
+   2007年時機器人中有大約一半是在亞洲、32%在歐洲、16%在北美、1%在澳大拉西亞，1%在非洲^[16]，當時世界上40%的機器人在日本^[
+   17]，因此讓日本成為世界機器人最多的國家。
+
+自主及道德問題
+
+   [编辑]
+
+   主条目：機械倫理學
+
+   隨著機器人越來越複雜，專家及學者開始關注機器人的行為需符合哪一種倫理學^[18]，以及哪一種機器人有資格擁有社會、文化、道德或是法律上的權利^
+   [19]。有一些科學組織宣稱在2019年可能就會有機器人的大腦^[20]。其他人預測機器人的智能在2050會有突破性的進展^[21]。最近的進
+   展已經讓機器人的行為變得更加複雜^[22]。2010年有一部名為《插头与祷告（英语：Plug &
+   Pray）》的紀錄片，其中一個主題就是智能機器人對社會的衝擊^[23]。
+
+   弗諾·文奇認為有一天電腦和機器人會比人更聰明，他稱之為「奇異點」^[24]。他認為那時對人類會有某種程度的危險，也可能相當危險^[25]，在一
+   種稱為奇点主义（英语：Singularitarianism）的哲學中會探討這個議題。
+
+   近年来，大语言模型的出现标志着人工智能取得了重大进展。2020年，OpenAI推出了GPT-3大语言模型，它能够生成接近人类水平的文本。202
+   2年，ChatGPT聊天机器人的问世让更多普通大众接触到了对话式人工智能系统。这些进展引发了关于人工智能对社会影响的广泛讨论，以及如何规范和引
+   导人工智能发展的问题。
+
+戰爭機器人
+
+   [编辑]
+
+   有些專家及學者質疑在戰爭中是否可以使用機器人，特別是有自主功能的機器人^[26]。也有一些關注是有關可以讓軍事機器人受另一個機器人控制的技術^
+   [27]。美國海軍資助的一個計劃提出，隨著軍事機器人越來越複雜，應該更重視其能力對作出自主決定的影響^[28]^[29]。有一個研究者認為自主
+   機器人會更加有人性，因此可以更有效的作決定，但也有研究者質疑上述的想法^[30]。
+
+和失業的關係
+
+   [编辑]
+
+   工業機器人的引進有可能會和失業有關，像台灣廠商富士康在2011年7月起就提出一個三年計劃，要用更多的機器人代替工廠的人力。當時工廠有使用一萬台
+   機器人，但在三年後要增加到一百萬台^[31]。
+
+世界机器人博览会
+
+   [编辑]
+
+   世界机器人博览会（IREX）是世界上最大的机器人貿易展覽會^[32]，第一次是在1973年在日本東京舉行，之後每二年舉行一次^[32]。
+
+艾西莫夫机器人三定律
+
+   [编辑]
+
+   参见：机器人三定律
+
+   [220px-Superman-mechanical-monster.jpg] 想像中的機器人叛變人類
+
+   科幻小说中對机器人行为的描述，以科幻小说家以萨·艾西莫夫在小说《我，機器人》中所订立的“机器人三定律”最为著名。
+   艾西莫夫为机器人提出的三条「定律」（law），程序上规定所有机器人必须遵守：
+     * 第一法則：機器人不得傷害人類，且确保人类不受傷害；
+     * 第二法則：在不違背第一法則的前提下，機器人必須服從人類的命令；
+     * 第三法則：在不違背第一及第二法則的前提下，機器人必須保護自己。
+
+   “机器人三定律”的目的是为了保护人类不受伤害，但艾西莫夫在小说中也探讨了在不违反三定律的前提下伤害人类的可能性，甚至在小說中不斷地挑戰這三定律
+   ，在看起來完美的定律中找到許多漏洞。在现实中，“三定律”成为机械伦理学的基础。
+
+参看
+
+   [编辑]
+
+     * icon 机器人学主题
+
+     * 人工智能
+     * 計算機視覺
+     * 恐怖谷理论
+     * 人型机器人学
+     * 人造人
+     * 機械化人 / 賽博格
+     * 仿真機器人
+     * 機器人動畫
+     * 量子機器人
+
+     * 技術性失業
+
+註釋
+
+   [编辑]
+
+    1. ^ robotics. Oxford Dictionaries. [4 February 2011].
+       （原始内容存档于2011-05-18）.
+    2. ^ Pearce, Jeremy. "George C. Devol, Inventor of Robot Arm, Dies at
+       99" （页面存档备份，存于互联网档案馆）, The New York Times, August 15, 2011.
+       Retrieved February 7, 2012. "In 1961, General Motors put the first
+       Unimate arm on an assembly line at the company’s plant in Ewing
+       Township, N.J., a suburb of Trenton. The device was used to lift
+       and stack die-cast metal parts taken hot from their molds."
+    3. ^ Yang et al (2022)Robot Application and occupational Injuries: Are
+       Robots Necessarily Safer, 147, 105623,
+       https://www.sciencedirect.com/science/article/abs/pii/S092575352100
+       463X （页面存档备份，存于互联网档案馆）
+    4. ^ Akins, Crystal. 5 jobs being replaced by robots. Excelle.
+       Monster. [2013-04-15]. （原始内容存档于2013-04-24）.
+    5. ^ Hoy, Greg. Robots could cost Australian economy 5 million jobs,
+       experts warn, as companies look to cut costs. ABC News. Australian
+       Broadcasting Corporation. 28 May 2014 [29 May 2014].
+       （原始内容存档于2014-05-29）.
+    6. ^ 陳炳聖. 《萬物簡史》. 源樺. 2007. ISBN 986828421X.
+    7. ^ BOOK:R.U.R. and the Vision of Artificial Life
+       website=robot100.cz. 2021 [2024-01-30]. （原始内容存档于2024-07-14）.
+    8. ^ Who did invent the word “robot” and what does it mean?. Adelaide
+       Robotics And Computer Science Academy. [2024-01-30].
+       （原始内容存档于2024-04-24）.
+    9. ^ ROBOT - the most famous Czech word celebrates 100 years.
+       2021-02-18 [2024-01-30]. （原始内容存档于2024-07-10）.
+   10. ^ Morris, Nicola"The Golem in Jewish American Literature: Risks and
+       Responsibilities in the Fiction of Thane Rosenbaum" p.119
+   11. ^ 可荣·贲; 彦铎·张. 人工智能. 清华大学出版社有限公司. 2006: 349–.
+       ISBN 978-7-302-12405-4.
+   12. ^ J. Hu; A. Lanzon. An innovative tri-rotor drone and associated
+       distributed aerial drone swarm control. Robotics and Autonomous
+       Systems. 2018, 103: 162-174 [2020-03-20]. （原始内容存档于2021-01-22）.
+   13. ^ 人型機器人. [2014-12-23]. （原始内容存档于2014-12-23）.
+   14. ^ MIT team building social robot 麻省理工學院研制完成了社交型机器人
+       （页面存档备份，存于互联网档案馆）原文：“The robot's features, behavior and ‘emotions’
+       work together so it can ‘interact with humans in an intuitive,
+       natural way,’”， 大意为：通过机器人的面目表情，行为和“情绪”的合作，由此可以“与人类有一个直观自然的方式互动，”
+   15. ^ A Ping-Pong-Playing Terminator. Popular Science. [2014-10-26].
+       （原始内容存档于2011-03-29）.
+   16. ^ Robots Today and Tomorrow: IFR Presents the 2007 World Robotics
+       Statistics Survey （页面存档备份，存于互联网档案馆）; World Robotics; 2007-10-29.
+       Retrieved 2007-12-14
+   17. ^ Reporting by Watanabe, Hiroaki; Writing and additional reporting
+       by Negishi, Mayumi; Editing by Norton, Jerry; Japan's robots slug
+       it out to be world champ （页面存档备份，存于互联网档案馆）; Reuters; 2007-12-02.
+       Retrieved 2007-01-01
+   18. ^ AAAI webpage of materials on robot ethics
+       互联网档案馆的存檔，存档日期2011-08-05..
+   19. ^ AAAI compilation of articles on robot rights
+       互联网档案馆的存檔，存档日期2012-04-06., Sources compiled up to 2006.
+   20. ^ Scientists Predict Artificial Brain in 10 Years
+       互联网档案馆的存檔，存档日期2009-11-29., by Kristie McNealy M.D. July 29, 2009.
+   21. ^ Hans Moravec. Robot Mere Machine to Transcendent Mind. Oxford
+       University Press. 2000 [2014-10-26]. ISBN 978-0-19-513630-2.
+       （原始内容存档于2012-06-21）.
+   22. ^ Robots Almost Conquering Walking, Reading, Dancing
+       （页面存档备份，存于互联网档案馆）, by Matthew Weigand, Korea Itimes, Monday, August
+       17, 2009.
+   23. ^ Plug & Pray （页面存档备份，存于互联网档案馆）, documentary film by Jens Schanze
+       about the possibilities of AI and robotics.
+   24. ^ Scientists Worry Machines May Outsmart Man （页面存档备份，存于互联网档案馆） By
+       John Markoff, The New York Times, July 26, 2009.
+   25. ^ The Coming Technological Singularity: How to Survive in the
+       Post-Human Era （页面存档备份，存于互联网档案馆）, by Vernor Vinge, Department of
+       Mathematical Sciences, San Diego State University, (c) 1993 by
+       Vernor Vinge.
+   26. ^ Call for debate on killer robots （页面存档备份，存于互联网档案馆）, Jason Palmer.
+       BBC News, August 3, 2009.
+   27. ^ Robot three-way portends autonomous future （页面存档备份，存于互联网档案馆）, By
+       David Axe wired.com, August 13, 2009.
+   28. ^ New Navy-funded Report Warns of War Robots Going "Terminator"
+       （页面存档备份，存于互联网档案馆）, by Jason Mick (Blog), dailytech.com, February
+       17, 2009.
+   29. ^ Navy report warns of robot uprising, suggests a strong moral
+       compass （页面存档备份，存于互联网档案馆）, by Joseph L. Flatley engadget.com,
+       February 18, 2009.
+   30. ^ New role for robot warriors;^[失效連結] Drones are just part of a bid
+       to automate combat. Can virtual ethics make machines
+       decisionmakers?, by Gregory M. Lamb, The Christian Science Monitor,
+       February 17, 2010.
+   31. ^ Yan. Foxconn to replace workers with 1 million robots in 3 years.
+       Xinhua News Agency. 30 July 2011 [4 August 2011].
+       （原始内容存档于2011-10-08）.
+   32. ^ ^32.0 ^32.1 Burke, Myles. Transformers take Japanese robotshow by
+       storm. The Daily Telegraph. 2009-11-25 [2010-01-18].
+       （原始内容存档于2010-06-20）.
+
+參考文獻
+
+   [编辑]
+
+     * 新浪英漢字典：自動控制機器
+     * 雅虎奇摩英漢字典：自動控制機器
+
+外部链接
+
+   [编辑]
+
+   维基共享资源上的相关多媒体资源：机器人
+
+   在Wikibooks 有更多關於本條目的內容：Robotics
+
+   維基學院中的相關研究或學習資源：School:机器人
+
+     * 新加坡机器人学会：http://www.robotics.sg （页面存档备份，存于互联网档案馆）
+     * 台灣機器人產業發展協會機器人世界情報網
+     * Energid Technologies （页面存档备份，存于互联网档案馆） 机器研究和开发
+     * BeRobot （页面存档备份，存于互联网档案馆） 机器人研究開發套件
+     * Robai （页面存档备份，存于互联网档案馆） 机器人产品
+
+     * 查
+     * 论
+     * 编
+
+   机器人学
+
+   主要文章
+
+     * 机器人
+     * 纲要（英语：Outline of robotics）
+     * 术语（英语：Glossary of robotics）
+     * 索引（英语：Index of robotics articles）
+     * 历史（英语：History of robots）
+     * 未来
+     * 世界机器人学（英语：Robotics worldwide）
+     * 机器人名人堂
+     * 机器人伦理学
+     * 机器人法则
+     * 人类与机器人的互动
+     * 人工智能竞赛和奖项（英语：Competitions and prizes in artificial intelligence）
+     * 机器人列表（英语：List of robots）
+     * 虚构机器人列表（英语：List of fictional robots and androids）
+
+   [100px-Shadow_Hand_Bulb_large.jpg]
+
+   类型（維基數據所列：Q126414694）
+
+    依外型
+     * 類人型
+     * 人型
+     * 女性
+     * 改造人
+     * 六足（英语：Hexapod (robotics)）
+     * 关节（英语：Articulated robot）（機械手臂）
+     * 仿生
+     * 微型（英语：Microbotics）
+     * 纳米
+
+    依用途
+     * 家用（英语：Domestic robot）
+     * 娱乐（英语：Entertainment robot）
+     * 军用
+     * 医疗
+     * 服务（英语：Service robot）
+     * 残疾（英语：Disability robot）
+     * 義肢
+     * 农业
+     * 餐馆（英语：Automated restaurant）
+     * 工业
+     * 社交
+     * 性愛
+
+   依使用環境
+     * 固定
+     * 地面
+     * 水下
+     * 空中
+     * 太空
+     * 移動機器人（英语：Mobile robots）
+     * 极地机器人（英语：Mobile robots#Classification）
+
+   依移動方式
+     * 腳
+     * 輪子
+     * 履带
+     * 飛
+
+   依运动行為
+     * 跑步
+     * 游泳
+     * 旋翼
+     * 攀登
+     * 跳躍
+     * 爬行形類
+     * 擺
+
+   部件
+
+     * 動力源
+     * 驅動
+     * 感應
+
+   导航（英语：Mobile robot navigation）
+
+     * 手动遥控（英语：Mobile robot#Manual remote or tele-op）、遥控操作（英语：Remote
+       operation）或远控自主
+     * 避障遥控（英语：Mobile robot#Guarded tele-op）
+     * 线控机器人（英语：Mobile robot#Line-following robot）
+     * 自主随机机器人（英语：Mobile robot#Autonomously randomized robot）
+     * 自动引导机器人（英语：Mobile robot#Autonomously guided robot）
+     * 滑动自主（英语：Mobile robot#Sliding autonomy）
+     * 自主机器人
+
+   研究
+
+     * 机器人学家
+     * 机器人的领域（英语：Areas of robotics）
+     * 机器人演化（英语：Evolutionary robotics）
+     * 机器人工具组（英语：Robot kit）
+     * 机器人模拟器（英语：Robotics simulator）
+     * Suite（英语：Robotics suite）
+     * 开源（英语：Open-source robotics）
+     * 软件（英语：Robot software）
+     * 适应性（英语：Adaptable robotics）
+     * 开发（英语：Developmental robotics）
+     * 范式（英语：Robotic paradigms）
+     * 普适（英语：Ubiquitous robot）
+
+     * 分类 分类
+     * 共享资源页面 共享资源
+     * 主题 主题
+     * 专题 专题
+
+     * 查
+     * 论
+     * 编
+
+   科幻元素
+
+   主題
+
+     * 太空歌劇
+     * 宇宙戰爭
+     * 異世界
+     * 失落的世界
+     * 海洋
+     * 英雄
+     * 外星生命入侵
+     * 外星人
+     * 反乌托邦
+     * 第一次接觸
+     * 進化
+     * 赛博朋克
+     * 蒸汽朋克
+     * 世界末日
+     * 反攻人類
+     * 末日後的世界
+     * 統合危機
+     * 暫停生命
+     * 時光旅行
+     * 時間可逆的矛盾
+     * 平行世界
+     * 竄改歷史
+     * 轉生
+     * 復古未來主義
+
+   宇宙
+
+     * 宇宙空間
+     * 星
+     * 太陽系
+     * 太陽
+     * 地球（英语：Earth in science fiction）
+     * 銀河系
+     * 黑洞
+     * 星際物質
+     * 太空探索
+     * 火箭
+     * 太空飛行器
+     * 載人天空計劃
+     * 太空站
+     * 太空船
+     * 超光速航法
+     * 曲速飛行
+     * 宇宙移民
+     * 質量投射器
+     * 太空電梯
+     * 戴森球
+     * 外星生命
+     * 不明飛行物體
+     * 史前时代
+          + 小说（英语：Prehistoric fiction）
+     * 维度
+          + 四维空间（英语：Fourth dimension in literature）
+
+   生命
+
+     * 突變
+     * 腦
+     * 意識
+     * 心靈潛水
+     * 多重人格
+     * 超能力
+     * 基因
+     * 长生不老
+     * 人工生命體
+     * 重現生命
+     * 復活
+     * 克隆
+     * 生化危機
+     * 納米科技
+     * 未確定生物
+     * 怪物
+     * 生命延續
+     * 病毒
+     * 未來生物
+     * 情報生命體
+     * 丧尸
+
+   科技
+
+     * 机器人
+     * 仿生人
+     * 改造人
+     * 生化人
+     * 動力服
+     * 電腦
+     * 人工智能
+     * 互聯網
+     * 駭客
+     * 虛擬實境
+     * 光學武器
+     * 衛星武器
+     * 磁炮
+     * 坦克
+     * 戰鬥機
+     * 船艦
+     * 隱形
+     * 重力控制
+     * 防禦力場
+     * 失落的技術
+     * 擬似科學
+     * 意识上传
+     * 人體冷凍技術
+     * 生物工程
+     * 大规模杀伤性武器
+          + 核武器
+          + 生化武器
+     * 脑机接口
+
+   流行文化
+
+     * 小说
+     * 漫画
+     * 电影
+     * 电视剧
+     * 电子游戏
+
+     * 分类 分类
+     * 主题 主题
+     * 模板 相关模板
+
+   规范控制数据库 編輯維基數據鏈接
+   各地
+     * 法国
+     * BnF data
+     * 德国
+     * 以色列
+     * 美国
+          + 2
+     * 日本
+     * 捷克
+
+   学术
+     * AAT
+
+   检索自“https://zh.wikipedia.org/w/index.php?title=机器人&oldid=84160674”
+
+   分类：​
+     * 跨學科領域
+     * 机械工程
+     * 人工智能
+     * 计算机应用
+     * 机器人学
+     * 机器人
+     * 機械安全
+
+   隐藏分类：​
+     * Webarchive模板wayback链接
+     * 自2013年12月带有失效链接的条目
+     * 包含自我提及的条目
+     * 自2018年1月需补充来源的条目
+     * 拒绝当选首页新条目推荐栏目的条目
+     * 含有英語的條目
+     * 维基共享资源分类链接使用了维基数据上的匹配项
+     * 包含BNF标识符的维基百科条目
+     * 包含BNFdata标识符的维基百科条目
+     * 包含GND标识符的维基百科条目
+     * 包含J9U标识符的维基百科条目
+     * 包含LCCN标识符的维基百科条目
+     * 包含NDL标识符的维基百科条目
+     * 包含NKC标识符的维基百科条目
+     * 包含AAT标识符的维基百科条目
+
+     * 本页面最后修订于2024年9月10日 (星期二) 08:38。
+     * 本站的全部文字在知识共享 署名-相同方式共享 4.0协议之条款下提供，附加条款亦可能应用。（请参阅使用条款）
+       Wikipedia®和维基百科标志是维基媒体基金会的注册商标；维基™是维基媒体基金会的商标。
+       维基媒体基金会是按美国国內稅收法501(c)(3)登记的非营利慈善机构。
+
+     * 隐私政策
+     * 关于维基百科
+     * 免责声明
+     * 行为准则
+     * 开发者
+     * 统计
+     * Cookie声明
+     * 手机版视图
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
